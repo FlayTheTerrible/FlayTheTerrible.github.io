@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: What the hell ?!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Flay.Com has been a few things over the years:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+-  A showcase site for artwork
+-  A CG news and resources site
+-  A wordpress blog
+-  A photo gallery
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Plan is to incorporate a bit of each above as a way of learning the "new" (to me) web technologies (Jekyll, markdown etc.). No promises.
+
+Get at me on matrix: **@flay:ubports.chat**
