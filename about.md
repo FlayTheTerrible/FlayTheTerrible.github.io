@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is an experimental blog. 
 
-### More Information
+No guarantees as to accuracy or usefulness should be expected.
 
-A place to include any other types of information that you'd like to include about yourself.
+#### History
 
-### Contact me
+The word Flay was derived from a character in Mervyn Peake's Gormanghast books. The manservant Flay was also played by Christopher Lee in a BBC miniseries of the books. Worth a watch.
 
-[email@domain.com](mailto:email@domain.com)
+Flay.Com has been a few things over the years:
+
+-  A showcase site for artwork
+-  A CG news and resources site
+-  A WordPress blog
+-  A photo gallery
+
+Plan is to incorporate a bit of each above as a way of learning the "new" (to me) web technology>
+
+
+#### Contact me
+
+Get at me on matrix: **@flay:ubports.chat**
+
+or:
+
+####[flay@pm.me](mailto:flay@pm.me)
