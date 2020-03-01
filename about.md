@@ -19,7 +19,7 @@ Flay.Com has been a few things over the years:
 -  A WordPress blog
 -  A photo gallery
 
-Plan is to incorporate a bit of each above as a way of learning the "new" (to me) web technology>
+Plan is to incorporate a bit of each above as a way of learning the "new" (to me) web technology.
 
 
 #### Contact me
