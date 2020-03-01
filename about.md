@@ -28,4 +28,4 @@ Get at me on matrix: **@flay:ubports.chat**
 
 or:
 
-####[flay@pm.me](mailto:flay@pm.me)
+#### [flay@pm.me](mailto:flay@pm.me)
