@@ -26,6 +26,6 @@ Plan is to incorporate a bit of each above as a way of learning the "new" (to me
 
 Get at me on matrix: **@flay:ubports.chat**
 
-or:
+email: [flay@pm.me](mailto:flay@pm.me)
 
-#### [flay@pm.me](mailto:flay@pm.me)
+facebook: [huffingbunnies](https://www.facebook.com/huffingbunnies "huff the bunnies")
