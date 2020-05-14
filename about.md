@@ -24,8 +24,8 @@ Plan is to incorporate a bit of each above as a way of learning the "new" (to me
 
 #### Contact me
 
-Get at me on matrix: **@flay:ubports.chat**
+matrix: @flay:ubports.chat
 
 email: [flay@pm.me](mailto:flay@pm.me)
 
-facebook: [huffingbunnies](https://www.facebook.com/huffingbunnies "huff the bunnies")
+mastodon: [@flay@fosstodon.org](https://fosstodon.org/invite/d3fYrcqE)
