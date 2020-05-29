@@ -1,18 +1,18 @@
 ### More a crib note than a guide:
 
-Ensure "wine" and "winetricks" are installed via GUI or command line. During all the below winetricks kept notifying about 64 bit. Ignore.
+Ensure "wine" and "winetricks" are installed via GUI or command line. During all the below winetricks kept notifying about 64 bit. Ignore. Annoying.
 
-Follow the DXVK WINE install section on the archwiki (https://wiki.archlinux.org/index.php/Wine#DXVK). I used this following string to set the prefix up (default in this case): 
+Follow the DXVK WINE install section on the archwiki (https://wiki.archlinux.org/index.php/Wine#DXVK). I used this following string to set up the default prefix: 
 
-	"WINEPREFIX="/home/christopher/.wine" setup_dxvk install"
+	`WINEPREFIX="/home/christopher/.wine" setup_dxvk install`
 
-I've always installed corefonts via winetricks. GUI or:
+I've always installed corefonts and Visual C DLL's via winetricks. GUI or:
 
-	"winetricks corefonts"
+	`winetricks corefonts vcrun2005 vcrun2008 vcrun2010`
 
 Download the latest EVE installer and install via shell or  winetricks. The latter created desktop launch icons for me.
 
-	"wine EveLauncher-blahblahblah.exe"
+	`wine EveLauncher-blahblahblah.exe`
 
 
 Follow along with eve's wizard and you SHOULD be good to go.
